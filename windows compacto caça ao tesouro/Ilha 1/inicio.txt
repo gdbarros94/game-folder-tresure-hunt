@@ -1,0 +1,18 @@
+Bem-vindo à emocionante aventura da Caça ao Tesouro na Ilha Misteriosa!
+
+Instruções para os Jovens Aventureiros:
+
+1. Explore cada pasta com curiosidade e coragem.
+2. Cada pista leva a um novo desafio e, eventualmente, ao tesouro escondido.
+3. Mantenha um olhar atento a pistas indiretas para desvendar o próximo passo.
+
+Tutorial Rápido:
+- Para avançar, consulte as pistas e arquivos presentes nas pastas.
+- As dicas podem ser enigmáticas, como "siga a sombra da ordem nas pastas."
+- Se sentir perdido, respire fundo e pense: "Que pasta ou arquivo faz sentido aqui?"
+
+Boa sorte, exploradores! A primeira pista aguarda você.
+
+Equipe de Organização da Caça ao Tesouro
+
+A primeira pista está em uma pasta misteriosa chamada "PistaB2.txt". Descubra o próximo passo!
